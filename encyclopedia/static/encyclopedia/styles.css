@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 50vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    justify-content: center;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.sidebar a{
+    margin-top: 20px;
+}
+
+.logo-area{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.logo{
+    display: block;
+    margin: 10px;
+}
+
+.wiki-text{
+    height: 18px;
+    width: 120px;
+}
+
+.search-form{
+    position: relative;
+    display: block;
+    justify-content: center;
+    margin: 10px 0 10px 10px;
+}
+
+.side-menu{
+    margin: 10px;
+}
