@@ -1,4 +1,4 @@
-# Wiki Project (CS50 Web Programming with Python and Javascript)
+# Wiki Project
 
 welcome to musamehmet's repository!
 
