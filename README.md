@@ -4,6 +4,8 @@ welcome to musamehmet's repository!
 
 The Wiki project is developed for CS50’s Web Programming with Python and JavaScript Lecture 2 and 3.
 
+**Specification**
+
 Complete the implementation of your Wiki encyclopedia. You must fulfill the following requirements:
 
 Entry Page: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
